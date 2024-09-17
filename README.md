@@ -23,7 +23,7 @@
 <p align="left">Hello World! My name is Nick, and I'm currently residing in Texas<br><br>- 🔭 I’m currently working on a .NET MAUI stock tracking app<br><br>- 🌱  I'm currently learning .NET MAUI and Azure development <br><br>- ⚡ In my free time I like to spend time outdoors and play sport with friends and family<br><br>- 📫 You can reach me at nicholas.potenza@outlook.com<br><br>- 📚 All my projects can be found here on GitHub</p>
 
 ###
-<br>
+
 <p align="left"></p>
 
 ###
@@ -51,14 +51,13 @@
 <p align="left"></p>
 
 ###
-<br>
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nico859a&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nico859a&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
