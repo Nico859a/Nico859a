@@ -23,6 +23,7 @@
 <p align="left">Hello World! My name is Nick, and I'm currently residing in Texas<br><br>- 🔭 I’m currently working on a .NET MAUI stock tracking app<br><br>- 🌱  I'm currently learning .NET MAUI and Azure development <br><br>- ⚡ In my free time I like to spend time outdoors and play sport with friends and family<br><br>- 📫 You can reach me at nicholas.potenza@outlook.com<br><br>- 📚 All my projects can be found here on GitHub</p>
 
 ###
+<br>
 
 <p align="left"></p>
 
@@ -47,6 +48,7 @@
 </div>
 
 ###
+<br>
 
 <p align="left"></p>
 
